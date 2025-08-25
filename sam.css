@@ -1,0 +1,44 @@
+.contact {
+    padding: 10px 10px 10px 10px;
+    width: 20%;
+    height: auto;
+    border: 1px solid white;
+    border-radius: 3px;
+    box-shadow: 0 2px 7px hsl(0, 0%, 100%);
+}
+
+.flex img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+
+.kissi {
+    color: rgb(213, 203, 15);
+}
+
+.image img {
+    width: 80px;
+    height: 80px;
+    border-radius: 80px;
+}
+
+.image h2 {
+    font-family: 'Raleway';
+    text-align: center;
+    margin-top: 20px;
+    font-weight: 800;
+    color: rgb(226, 174, 6);
+}
+
+
+
+.home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1em;
+    font-weight: 600;
+    font-family: 'Raleway';
+    margin-top: 20px;
+}
